@@ -2,7 +2,7 @@
 title: About MaMo
 feature_text: |
  ## Markets & Mobility
- How Employers Structure Economic Opportunity
+ # How Employers Structure Economic Opportunity
 feature_image: "https://picsum.photos/1300/400?image=954"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
