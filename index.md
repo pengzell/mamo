@@ -2,7 +2,7 @@
 title: About MaMo
 feature_text: |
  ## Markets & Mobility
- A research project funded by the European Research Council (grant no. 101165962) and led by Per Engzell at University College London.
+ A research project funded by the European Research Council and led by Per Engzell at University College London.
 feature_image: "https://picsum.photos/1300/400?image=954"
 excerpt: "This project reorients the focus of intergenerational mobility research by highlighting the labor market as an arena for the reproduction of advantage. The project employs cutting-edge empirical methods, including quasi- experimental designs, event studies, within-family comparisons, decomposition analyses, counterfactual simulations, and diagnostic checks to rigorously assess the extent of inequalities in the labor market."
 ---
