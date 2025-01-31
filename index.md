@@ -1,5 +1,5 @@
 ---
-title: About mAmo
+title: About MaMo
 feature_text: |
  ## Markets & Mobility
  A research project funded by the European Research Council and led by Per Engzell at University College London.
