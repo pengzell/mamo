@@ -7,6 +7,6 @@ feature_image: "https://picsum.photos/1300/400?image=847"
 excerpt: ""
 ---
 | -------- | ------- |
-| ![Per Engzell](https://perengzell.com/portrait.jpg) | ![Postdoc 1](https://upload.wikimedia.org/wikipedia/commons/2/24/Missing_avatar.svg) | ![Postdoc 2](https://upload.wikimedia.org/wikipedia/commons/2/24/Missing_avatar.svg) |
+| <img src="../portrait.jpg" alt="Per Engzell" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Missing_avatar.svg" alt="TBA" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Missing_avatar.svg" alt="TBA" width="200"/> | 
 | **Per Engzell** | **TBA** | **TBA** |
 | Principal Investigator | Research Fellow | Research Fellow |
