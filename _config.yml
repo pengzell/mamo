@@ -96,8 +96,8 @@ lang: en-GB # Set the site language
 title: "MaMo" # Site name or title, also used in jekyll-seo-tag
 logo: "assets/logos/logo.jpg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://perengzell.com/" # Site url, also used in jekyll-seo-tag
-baseurl: "http://perengzell.com/mamo"
+url: "https://perengzell.com/mamo" # Site url, also used in jekyll-seo-tag
+baseurl: ""
 repo: "http://github.com/pengzell/"
 email: "p.engzell@ucl.ac.uk"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
