@@ -93,8 +93,8 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "../alembic/assets/logos/logo.jpg" # Site logo, also used in jekyll-seo-tag
+title: "MaMo" # Site name or title, also used in jekyll-seo-tag
+logo: "../mamo/assets/logos/logo.jpg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -110,14 +110,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '../alembic/assets/logos/logo@16px.png'
-  32: '../alembic/assets/logos/logo@32px.png'
-  96: '../alembic/assets/logos/logo@96px.png'
-  120: '../alembic/assets/logos/logo@120px.png'
-  144: '../alembic/assets/logos/logo@144px.png'
-  180: '../alembic/assets/logos/logo@180px.png'
-  512: '../alembic/assets/logos/logo@512px.png'
-  1024: '../alembic/assets/logos/logo@1024px.png'
+  16: '../mamo/assets/logos/logo@16px.png'
+  32: '../mamo/assets/logos/logo@32px.png'
+  96: '../mamo/assets/logos/logo@96px.png'
+  120: '../mamo/assets/logos/logo@120px.png'
+  144: '../mamo/assets/logos/logo@144px.png'
+  180: '../mamo/assets/logos/logo@180px.png'
+  512: '../mamo/assets/logos/logo@512px.png'
+  1024: '../mamo/assets/logos/logo@1024px.png'
 
 # 9. Site navigation
 navigation_header:
