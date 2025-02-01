@@ -1,9 +1,9 @@
 ---
 title: 
 feature_text: |
- <span style="color:white"> ## Markets & Mobility 
- **A research project funded by the European Research Council and led by Per Engzell at University College London.** </span>
-feature_image: "https://picsum.photos/1300/400?image=954" 
+ ## <span style="color:white"> Markets & Mobility </span>
+ <span style="color:white"> **A research project funded by the European Research Council and led by Per Engzell at University College London.** </span>
+feature_image: "https://picsum.photos/1300/400?image=348" 
 excerpt: "This project reorients the focus of intergenerational mobility research by highlighting the labor market as an arena for the reproduction of advantage and evaluates strategies to promote fair opportunity in the labor market."
 ---
 
