@@ -7,6 +7,6 @@ feature_image: "https://picsum.photos/1300/400?image=847"
 excerpt: ""
 ---
 | -------- | ------- |
-| ![Alt text](https://www.journals.uchicago.edu/cms/10.1086/ajs.2025.130.issue-4/asset/193e62de-8f19-e62d-18f1-3e62de18f193/ajs.2025.130.issue-4.cover.png) | $250    |
-| February | $80     |
-| March    | $420    |
+| ![Per Engzell](https://perengzell.com/portrait.jpg) | ![Postdoc 1](https://upload.wikimedia.org/wikipedia/commons/2/24/Missing_avatar.svg) | ![Postdoc 2](https://upload.wikimedia.org/wikipedia/commons/2/24/Missing_avatar.svg) |
+| **Per Engzell** | **TBA** | **TBA** |
+| Principal Investigator | Research Fellow | Research Fellow |
