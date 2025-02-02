@@ -10,8 +10,6 @@ excerpt: "Watch Per Engzell's 2024 Zetterberg prize lecture where he explains th
 
 Our Principal Investigator, Per Engzell, is the 2024 winner of the Hans L. Zetterberg Prize in Sociology. The prize is awarded annually by a jury at Uppsala University to a young researcher who by fruitfully combining theory and practice has advanced the research front. 
 
-In their motivation, the jury noted that Per through "his path breaking research on social stratification ... has advanced our understanding of social inequality processes and generated actionable policy oriented results."
-
 <div class="sv-layout sv-column-6" id="svid10_27590138194274feb8f6a36e">
 <div class="sv-custom-module sv-se-uu-uit-webb-webapp-video-canvas-studio sv-skip-spacer" id="svid12_27590138194274feb8f6a36f">
 <div id="VideofranCanvasStudio2">
