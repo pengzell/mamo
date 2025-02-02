@@ -30,4 +30,4 @@ Our Principal Investigator, Per Engzell, is the 2024 winner of the Hans L. Zette
 </div>
 </div>
 
-Watch the Zetterberg Prize lecture where Per explains the premise of the MaMo project. The lecture begins around the 4 minute mark. 
+Watch Per's Zetterberg Prize lecture where he explains the premise of the MaMo project. The lecture begins around the 4 minute mark. 
