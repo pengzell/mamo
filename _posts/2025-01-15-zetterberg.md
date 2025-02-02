@@ -1,14 +1,14 @@
 ---
-title: Zetterberg prize lecture
+title: Zetterberg Prize lecture
 categories:
 - General
 - Events
 - Media
-excerpt: "Watch Per Engzell's 2024 Zetterberg prize lecture where he explains the premise of the MaMo project."
+excerpt: "Watch Per Engzell's 2024 Zetterberg Prize lecture where he explains the premise of the MaMo project."
 
 ---
 
-Our Principal Investigator, Per Engzell, is the 2024 winner of the Hans L. Zetterberg Prize in Sociology. The prize is awarded annually by a jury at Uppsala University to a young researcher who by fruitfully combining theory and practice has advanced the research front. 
+Our Principal Investigator, Per Engzell, is the 2024 winner of the Hans L. Zetterberg Prize in sociology. The prize is awarded annually by a jury at Uppsala University to a young researcher who by fruitfully combining theory and practice has advanced the research front. 
 
 <div class="sv-layout sv-column-6" id="svid10_27590138194274feb8f6a36e">
 <div class="sv-custom-module sv-se-uu-uit-webb-webapp-video-canvas-studio sv-skip-spacer" id="svid12_27590138194274feb8f6a36f">
@@ -30,4 +30,4 @@ Our Principal Investigator, Per Engzell, is the 2024 winner of the Hans L. Zette
 </div>
 </div>
 
-Watch Per's prize lecture where he explains the premise of the MaMo project. The lecture begins around the 4 minute mark. 
+Watch Per's Zetterberg Prize lecture where he explains the premise of the MaMo project. The lecture begins around the 4 minute mark. 
