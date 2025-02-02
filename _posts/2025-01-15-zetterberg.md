@@ -1,8 +1,17 @@
 ---
-title: Zetterberg Prize
+title: Zetterberg prize lecture
 categories:
 - General
+- Events
+- Media
 ---
+
+Our Principal Investigator, Per Engzell, is the 2024 winner of the Hans L. Zetterberg Prize. The prize is awarded annually by a jury at Uppsala University and goes to a young sociologist who by fruitfully combining theory and practice has advanced the research front. 
+
+In their motivation, the jury noted that Per through "his path breaking research on social stratification ... has advanced our understanding of social inequality processes and generated actionable policy oriented results.
+
+**Watch Per's prize lecture below where he explains the premise of the MaMo project.** The lecture begins around the 4 minute mark. 
+
 <div class="sv-layout sv-column-6" id="svid10_27590138194274feb8f6a36e">
 <div class="sv-custom-module sv-se-uu-uit-webb-webapp-video-canvas-studio sv-skip-spacer" id="svid12_27590138194274feb8f6a36f">
 <div id="VideofranCanvasStudio2">
