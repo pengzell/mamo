@@ -5,8 +5,8 @@
 html {
   @include rootsize;
 
-  -webkit-text-size-adjust: 80%;
-  -ms-text-size-adjust: 80%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
 // Site-wide base styles.
