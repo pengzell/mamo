@@ -19,6 +19,7 @@ $bodytype: (
   regular: 400,
   bold: 700,
   italic: italic,
+  font-size: 0.75,
   cap-height: 0.75
 ) !default;
 
@@ -26,6 +27,8 @@ $headingtype: (
   font-family: '"Commissioner", sans',
   regular: 400,
   bold: 700,
+  italic: italic,
+  font-size: 0.75,
   cap-height: 0.75
 ) !default;
 
