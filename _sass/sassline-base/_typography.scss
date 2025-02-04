@@ -3,6 +3,7 @@
 
 // Setting root sizes and base styles.
 html {
+  font-size: 20px
   @include rootsize;
 
   -webkit-text-size-adjust: 100%;
