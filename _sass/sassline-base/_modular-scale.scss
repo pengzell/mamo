@@ -2,65 +2,67 @@
 // ---------------------------------------
 
 // Setting responsive modular-scales. Use appropriate scales for viewport sizes.
+// Based on below modularscale numbers, then adusted down by 0.75. 
+
 $modular-scale: (
   // Major Third http://www.modularscale.com/?16,28&px&1.25&web&text
   scale-0: (
-    alpha:   28.0,
-    beta:    25.0,
-    gamma:   22.4,
-    delta:   20.0,
-    epsilon: 17.9,
-    zeta:    16.0,
-    eta:     14.3,
-    theta:   12.8,
-    iota:    11.5
+    alpha:   21.0,
+    beta:    18.75,
+    gamma:   16.8,
+    delta:   15.0,
+    epsilon: 13.425,
+    zeta:    12.0,
+    eta:     10.725,
+    theta:   9.6,
+    iota:    8.625
   ),
   // Major Third http://www.modularscale.com/?17,30&px&1.25&web&text
   scale-1: (
-    alpha:   30.0,
-    beta:    26.6,
-    gamma:   24.0,
-    delta:   21.3,
-    epsilon: 19.2,
-    zeta:    17.0,
-    eta:     15.3,
-    theta:   13.6,
-    iota:    12.8
+    alpha:   22.5,
+    beta:    19.95,
+    gamma:   18.0,
+    delta:   15.975,
+    epsilon: 14.4,
+    zeta:    12.75,
+    eta:     11.475,
+    theta:   10.2,
+    iota:    9.6
   ),
   // Major Third http://www.modularscale.com/?18,32&px&1.25&web&text
   scale-2: (
-    alpha:   32.0,
-    beta:    28.1,
-    gamma:   25.6,
-    delta:   22.5,
-    epsilon: 20.5,
-    zeta:    18.0,
-    eta:     16.3,
-    theta:   14.4,
-    iota:    13.1
+    alpha:   24.0,
+    beta:    21.075,
+    gamma:   19.2,
+    delta:   16.875,
+    epsilon: 15.375,
+    zeta:    13.5,
+    eta:     12.225,
+    theta:   10.8,
+    iota:    9.825
   ),
   // Perfect Fourth http://www.modularscale.com/?20,40&px&1.333&web&text
   scale-3: (
-    alpha:   40.0,
-    beta:    35.5,
-    gamma:   30.0,
-    delta:   26.7,
-    epsilon: 22.5,
-    zeta:    20.0,
-    eta:     16.9,
-    theta:   15.0,
-    iota:    12.7
+    alpha:   30.0,
+    beta:    26.625,
+    gamma:   22.5,
+    delta:   20.025,
+    epsilon: 16.875,
+    zeta:    15.0,
+    eta:     12.675,
+    theta:   11.25,
+    iota:    9.525
   ),
   // Aug. Fourth http://www.modularscale.com/?22,50&px&1.414&web&text
   scale-4: (
-    alpha:   50.0,
-    beta:    43.9,
-    gamma:   35.3,
-    delta:   31.1,
-    epsilon: 25.0,
-    zeta:    22.0,
-    eta:     17.6,
-    theta:   15.6,
-    iota:    12.5
+    alpha:   37.5,
+    beta:    32.925,
+    gamma:   26.475,
+    delta:   23.325,
+    epsilon: 18.75,
+    zeta:    16.5,
+    eta:     13.2,
+    theta:   11.7,
+    iota:    9.375
   )
 );
