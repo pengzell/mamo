@@ -3,7 +3,7 @@ title:
 feature_text: | 
  # Markets & Mobility
  **A research project funded by the European Research Council and led by Per Engzell at University College London.**
-feature_image: "/mamo/assets/banner-3872x1296-yellow.jpg"
+feature_image: "{{ collect(File::glob('/mamo/assets/banner-3872x1296-*.jpg', GLOB_BRACE))->random() }}" 
 excerpt: "A research project funded by the European Research Council and led by Per Engzell at University College London."
 ---
 
