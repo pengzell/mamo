@@ -1,9 +1,9 @@
 ---
 title: 
 feature_text: |
- # Markets & Mobility
- **A research project funded by the European Research Council and led by Per Engzell at University College London.**
-feature_image: "https://picsum.photos/1300/400?image=954" 
+<h1 style="color:blue;">Markets & Mobility</h1> 
+<p style="color:red;">A research project funded by the European Research Council and led by Per Engzell at University College London.</p> 
+feature_image: "/mamo/assets/background-3872x2592-green.jpg" 
 excerpt: "A research project funded by the European Research Council and led by Per Engzell at University College London."
 ---
 
