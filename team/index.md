@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: | 
-feature_image: "/mamo/assets/banner-3872x1296-orange.jpg"
+feature_image: "/mamo/assets/banner-3872x1296-blue.jpg"
 
 excerpt: ""
 ---
