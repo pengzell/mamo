@@ -2,7 +2,7 @@
 title: 
 feature_text: | 
  More information soon
-feature_image: "https://picsum.photos/1300/400?image=240" 
+feature_image: "/mamo/assets/background-3872x2592-lightgreen.jpg"
 
 excerpt: ""
 ---
