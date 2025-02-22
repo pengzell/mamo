@@ -1,9 +1,6 @@
 ---
 title: 
 feature_text: |
-selector {
-    color: white;
-}
 # Markets & Mobility
 **A research project funded by the European Research Council and led by Per Engzell at University College London.**
 feature_image: "/mamo/assets/background-3872x2592-green.jpg" 
