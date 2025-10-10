@@ -8,3 +8,7 @@ excerpt: "A research project funded by the European Research Council and led by 
 ---
 
 Intergenerational mobility, the ability to rise economically regardless of family background, is a key measure of fairness in society. While education has traditionally been viewed as the path to mobility, its transformative power is facing challenges in a rapidly evolving job market. This project reorients the focus of intergenerational mobility research by highlighting the workplace as an arena for the reproduction of advantage, and proposing strategies to promote fair opportunity in the labor market.
+
+<div style="text-align: center;">
+<img src="/mamo/assets/eu-logos.png" alt="Funded by the European Union" width="500"/>
+</div>
