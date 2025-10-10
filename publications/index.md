@@ -6,6 +6,11 @@ feature_image: "/mamo/assets/banner-3872x1296-pink.jpg"
 excerpt: ""
 ---
 
+##### Journal Publications
+1. Strömberg, E., and Engzell, P. (2025). "How Robust are Country Rankings in Educational Mobility?" *Sociological Science*, conditionally accepted.
+1. Granström, O., and Engzell, P. (2025). "The Geography of Intergenerational Mobility in Europe." [*European Societies*](https://doi.org/10.1162/euso.a.39).
+1. Engzell, P., and Wilmers, N. (2025). "Firms and the Intergenerational Transmission of Labor Market Advantage." [*American Journal of Sociology*](https://doi.org/10.1086/736993).
+
 ##### MaMo Working Papers
 - MaMo #2: Granström, O., and P. Engzell. [The Geography of Intergenerational Mobility in Europe.](https://osf.io/preprints/socarxiv/gzwha)
 - MaMo #1: Engzell, P., and N. Wilmers. [Firms and the Intergenerational Transmission of Labor Market Advantage.](https://osf.io/preprints/socarxiv/mv3e9)
