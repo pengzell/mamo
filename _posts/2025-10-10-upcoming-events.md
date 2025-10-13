@@ -1,7 +1,7 @@
 ---
 title: November 2025 events
 categories:
-- General
+- Awards
 - Events
 excerpt: "PI Per Engzell to present research in Paris and Florence."
 ---
