@@ -1,9 +1,9 @@
 ---
 title: Zetterberg Prize lecture
 categories:
-- General
 - Events
 - Media
+- Awards
 excerpt: "Watch Per Engzell's Zetterberg Prize lecture about the MaMo project."
 
 ---
