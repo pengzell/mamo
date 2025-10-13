@@ -3,7 +3,7 @@ title: New team member: Joshua Choper
 categories:
 - General
 - Team
-excerpt: "Joshua Choper joins MaMo as Research Fellow from Bocconi University"
+excerpt: "Joshua Choper joins MaMo as a Research Fellow from Bocconi University."
 ---
 
 We are delighted to welcome Dr. Joshua Choper to MaMo as a Research Fellow. Josh joins us from Bocconi University, where he was a postdoctoral research fellow. He holds a PhD in Sociology from the University of California, Berkeley, and a Master’s in Public Policy from the University of Chicago. 
