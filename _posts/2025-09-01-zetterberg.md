@@ -8,9 +8,9 @@ excerpt: "Watch Per Engzell's 2024 Zetterberg Prize lecture where he explains th
 
 ---
 
-Watch a presentation of the recent MaMo publication "Firms and the Intergenerational Transmission of Labor Market Advantage". The lecture was given by PI Per Engzell as part of his award ceremony for the 2024 Hans L. Zetterberg Prize in November 2024. The prize is awarded annually by a jury at Uppsala University to a sociologist "whose scholarly work, preferably by productively combining theory and practice, has shifted the forefront of research". 
+Watch a presentation of the recent MaMo publication "Firms and the Intergenerational Transmission of Labor Market Advantage". This lecture was delivered by PI Per Engzell as part of his award ceremony for the 2024 Hans L. Zetterberg Prize in November 2024. The prize is awarded annually by a jury at Uppsala University to a sociologist "whose scholarly work, preferably by productively combining theory and practice, has shifted the forefront of research". 
 
-The lecture is about 30 minutes long and begins around the 6 minute mark.
+The talk is about 30 minutes long and begins around the 6 minute mark.
 
 <div class="sv-layout sv-column-6" id="svid10_27590138194274feb8f6a36e">
 <div class="sv-custom-module sv-se-uu-uit-webb-webapp-video-canvas-studio sv-skip-spacer" id="svid12_27590138194274feb8f6a36f">
