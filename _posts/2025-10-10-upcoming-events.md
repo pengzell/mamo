@@ -6,7 +6,7 @@ categories:
 excerpt: "PI Per Engzell to present research in Paris and Florence."
 ---
 
-In two upcoming events, MaMo PI Per Engzell will present his work related to the MaMo project. 
+In two upcoming events, Per Engzell will present work related to the MaMo project. 
 
 **EAS Prize for Best Article**
 
