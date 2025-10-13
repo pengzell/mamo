@@ -3,7 +3,7 @@ title: November 2025 events
 categories:
 - Awards
 - Events
-excerpt: "PI Per Engzell to present research in Paris and Florence."
+excerpt: "MaMo PI Per Engzell to present research in Paris and Florence."
 ---
 
 In two upcoming events, Per Engzell will present work related to the MaMo project. 
