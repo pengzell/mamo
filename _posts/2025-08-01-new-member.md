@@ -1,5 +1,5 @@
 ---
-title: New team member: Joshua Choper
+title: New team member 
 categories:
 - General
 - Team
