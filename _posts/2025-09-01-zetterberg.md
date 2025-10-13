@@ -4,11 +4,11 @@ categories:
 - General
 - Events
 - Media
-excerpt: "Watch Per Engzell's 2024 Zetterberg Prize lecture where he explains the premise of the MaMo project."
+excerpt: "Watch Per Engzell's Zetterberg Prize lecture where he explains the premise of the MaMo project."
 
 ---
 
-Watch a presentation of the recent MaMo publication "Firms and the Intergenerational Transmission of Labor Market Advantage". This lecture was delivered by PI Per Engzell as part of his award ceremony for the 2024 Hans L. Zetterberg Prize in November 2024. The prize is awarded annually by a jury at Uppsala University to a sociologist "whose scholarly work, preferably by productively combining theory and practice, has shifted the forefront of research". 
+Watch a presentation of the recent MaMo publication "Firms and the Intergenerational Transmission of Labor Market Advantage". This lecture was delivered by PI Per Engzell as part of his award ceremony for the Hans L. Zetterberg Prize in November 2024. The prize is awarded annually by a jury at Uppsala University to a sociologist "whose scholarly work, preferably by productively combining theory and practice, has shifted the forefront of research". 
 
 The talk is about 30 minutes long and begins around the 6 minute mark.
 
