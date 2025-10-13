@@ -4,7 +4,7 @@ categories:
 - General
 - Events
 - Media
-excerpt: "Watch Per Engzell's Zetterberg Prize lecture where he explains the premise of the MaMo project."
+excerpt: "Watch Per Engzell's Zetterberg Prize lecture about the MaMo project."
 
 ---
 
