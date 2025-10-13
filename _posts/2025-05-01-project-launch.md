@@ -1,7 +1,7 @@
 ---
 title: Project launch
 categories:
-- General
+- Team
 excerpt: "May 1, 2025, marks the official launch of the MaMo project, which will run until April 2030."
 ---
 
