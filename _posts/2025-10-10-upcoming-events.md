@@ -18,4 +18,4 @@ Per will present the paper at the EAS Annual Meeting in Paris, November 8, 2025,
 
 Per will also take part in an upcoming workshop on “[Intergenerational Persistence and Inequality](https://www.eui.eu/events?id=580601)” at the European University Institute in Florence on November 10.
 
-Organized by Alexander Ludwig, Herman van de Werfhorst, and Francis Vella, the event brings together leading scholars from sociology and economics to discuss how inequalities persist or change across generations. Sessions will cover new evidence on gender, geography, and networks in mobility, concluding with a policy panel featuring experts from the OECD, World Bank, and European Commission.
+Organized by Alexander Ludwig, Herman van de Werfhorst, and Francis Vella, the event brings together leading scholars from sociology and economics to discuss how inequalities persist across generations. Sessions will cover new evidence on gender, geography, and networks in mobility, concluding with a policy panel featuring experts from the OECD, World Bank, and European Commission.
