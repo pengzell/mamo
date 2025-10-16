@@ -14,3 +14,4 @@ excerpt: ""
 ##### MaMo Working Papers
 1. Engzell, P., and Wilmers, N. [Firms and the Intergenerational Transmission of Labor Market Advantage.](https://doi.org/10.5281/zenodo.17313474)
 1. Granström, O., and Engzell, P. [The Geography of Intergenerational Mobility in Europe.](https://doi.org/10.5281/zenodo.17313645)
+1. Strömberg, E., and Engzell, P. (2025). [How Robust are Country Rankings in Educational Mobility?](https://zenodo.org/records/17369692)
