@@ -6,6 +6,7 @@ feature_image: "/mamo/assets/banner-3872x1296-green.jpg"
 excerpt: ""
 ---
 
+### Motivation
 Intergenerational mobility -- the degree to which people can succeed regardless of family background -- is a cornerstone of equal opportunity. Traditionally, education has been seen as the main lever for upward mobility, but university enrollment has plateaued in many developed countries since the early 2000s, and college wage premiums have stagnated or declined. Despite the centrality of changing employment structures in explanations of wage inequality, the labor market itself has been largely absent from mobility research. MaMo aims to correct this by centering employers and workplaces as key sites where economic advantage is inherited across generations.
 
 ### Comparative Design and Data
